@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodingWorld-007/claw-agent-guide/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/CodingWorld-007/claw-agent-guide?style=social" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/CodingWorld-007/claw-agent-guide/network/dependents"><img alt="GitHub forks" src="https://img.shields.io/github/forks/CodingWorld-007/claw-agent-guide?style=social" /></a>
+  <a href="https://github.com/CodingWorld-007/claw-agent-guide"><strong>Star this repository</strong></a>&nbsp;•&nbsp;
+  <a href="https://github.com/sponsors/CodingWorld-007"><strong>Sponsor the author</strong></a>&nbsp;•&nbsp;
+  <a href="https://github.com/CodingWorld-007/claw-agent-guide/discussions"><strong>Join discussions</strong></a>
 </p>
 
 <p align="center">
@@ -17,10 +18,7 @@
   <strong>Better Harness Tools, not merely storing the archive of leaked Claude Code</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sponsors/CodingWorld-007"><img src="https://img.shields.io/badge/Sponsor-❤️-pink?logo=github-sponsors&style=for-the-badge" alt="Sponsor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/CodingWorld-007/claw-agent-guide"><img src="https://img.shields.io/badge/Star-⭐-yellow?logo=github&style=for-the-badge" alt="Star on GitHub" /></a>
-</p>
+
 
 > [!IMPORTANT]
 > **Rust port is available** in the [`rust`](https://github.com/CodingWorld-007/claw-agent-guide/tree/main/rust) directory. The Rust implementation aims to deliver a faster, memory-safe harness runtime. This demonstrates how the same architectural patterns can be implemented across different languages.
