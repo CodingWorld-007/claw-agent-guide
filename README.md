@@ -1,17 +1,12 @@
 # Rewriting Project Claw Code
 
 <p align="center">
-  <strong>⭐ Claw Agent Repository with Observations⭐</strong>
+  <strong>⭐ Comprehensive 5-Level Learning Guide for Agent Systems Architecture ⭐</strong>
 </p>
 
 <p align="center">
-  <a href="https://star-history.com/#CodingWorld-007/claw-agent-guide&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CodingWorld-007/claw-agent-guide&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CodingWorld-007/claw-agent-guide&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CodingWorld-007/claw-agent-guide&type=Date" width="600" />
-    </picture>
-  </a>
+  <a href="https://github.com/CodingWorld-007/claw-agent-guide/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/CodingWorld-007/claw-agent-guide?style=social" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/CodingWorld-007/claw-agent-guide/network/dependents"><img alt="GitHub forks" src="https://img.shields.io/github/forks/CodingWorld-007/claw-agent-guide?style=social" /></a>
 </p>
 
 <p align="center">
