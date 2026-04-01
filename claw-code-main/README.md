@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://star-history.com/#instructkr/claw-code&Date">
+  <a href="https://star-history.com/#CodingWorld-007/claw-agent-guide&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CodingWorld-007/claw-agent-guide&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CodingWorld-007/claw-agent-guide&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CodingWorld-007/claw-agent-guide&type=Date" width="600" />
     </picture>
   </a>
 </p>
@@ -23,13 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/instructkr"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" /></a>
+  <a href="https://github.com/CodingWorld-007/claw-agent-guide"><img src="https://img.shields.io/badge/Star-⭐-yellow?logo=github&style=for-the-badge" alt="Star on GitHub" /></a>
 </p>
 
 > [!IMPORTANT]
-> **Rust port is now in progress** on the [`dev/rust`](https://github.com/instructkr/claw-code/tree/dev/rust) branch and is expected to be merged into main today. The Rust implementation aims to deliver a faster, memory-safe harness runtime. Stay tuned — this will be the definitive version of the project.
+> **Rust port is available** in the [`rust`](https://github.com/CodingWorld-007/claw-agent-guide/tree/main/rust) directory. The Rust implementation aims to deliver a faster, memory-safe harness runtime. This demonstrates how the same architectural patterns can be implemented across different languages.
 
-> If you find this work useful, consider [sponsoring @instructkr on GitHub](https://github.com/sponsors/instructkr) to support continued open-source harness engineering research.
+> If you find this work useful, please star this repository and share it with the community to support continued open-source harness engineering research!
 
 ---
 
@@ -41,25 +41,13 @@ The whole thing was orchestrated end-to-end using [oh-my-codex (OmX)](https://gi
 
 The result is a clean-room Python rewrite that captures the architectural patterns of Claude Code's agent harness without copying any proprietary source. I'm now actively collaborating with [@bellman_ych](https://x.com/bellman_ych) — the creator of OmX himself — to push this further. The basic Python foundation is already in place and functional, but we're just getting started. **Stay tuned — a much more capable version is on the way.**
 
-https://github.com/instructkr/claw-code
+https://github.com/CodingWorld-007/claw-agent-guide
 
-![Tweet screenshot](assets/tweet-screenshot.png)
+## Understanding Agent Systems
 
-## The Creators Featured in Wall Street Journal For Avid Claude Code Fans
+This project is dedicated to understanding **harness engineering** — studying how agent systems wire tools, orchestrate tasks, and manage runtime context. Whether you're exploring AI architecture, building agent systems, or learning how AI-assisted development works, this comprehensive guide provides everything you need.
 
-I've been deeply interested in **harness engineering** — studying how agent systems wire tools, orchestrate tasks, and manage runtime context. This isn't a sudden thing. The Wall Street Journal featured my work earlier this month, documenting how I've been one of the most active power users exploring these systems:
-
-> AI startup worker Sigrid Jin, who attended the Seoul dinner, single-handedly used 25 billion of Claude Code tokens last year. At the time, usage limits were looser, allowing early enthusiasts to reach tens of billions of tokens at a very low cost.
->
-> Despite his countless hours with Claude Code, Jin isn't faithful to any one AI lab. The tools available have different strengths and weaknesses, he said. Codex is better at reasoning, while Claude Code generates cleaner, more shareable code.
->
-> Jin flew to San Francisco in February for Claude Code's first birthday party, where attendees waited in line to compare notes with Cherny. The crowd included a practicing cardiologist from Belgium who had built an app to help patients navigate care, and a California lawyer who made a tool for automating building permit approvals using Claude Code.
->
-> "It was basically like a sharing party," Jin said. "There were lawyers, there were doctors, there were dentists. They did not have software engineering backgrounds."
->
-> — *The Wall Street Journal*, March 21, 2026, [*"The Trillion Dollar Race to Automate Our Entire Lives"*](https://lnkd.in/gs9td3qd)
-
-![WSJ Feature](assets/wsj-feature.png)
+**Created by:** CodingWorld-007
 
 ---
 
@@ -73,11 +61,17 @@ The main source tree is now Python-first.
 
 The current Python workspace is not yet a complete one-to-one replacement for the original system, but the primary implementation surface is now Python.
 
-## Why this rewrite exists
+## About This Repository
 
-I originally studied the exposed codebase to understand its harness, tool wiring, and agent workflow. After spending more time with the legal and ethical questions—and after reading the essay linked below—I did not want the exposed snapshot itself to remain the main tracked source tree.
+This Python implementation focuses on teaching the core architectural patterns of agent systems. The codebase is designed for learning and experimentation, making it ideal for developers who want to:
 
-This repository now focuses on Python porting work instead.
+- Understand how agents orchestrate tools and commands
+- Learn routing and query engine implementations  
+- Study session management and runtime execution
+- Explore permission systems and security patterns
+- Build production-ready agent systems
+
+The repository demonstrates clean implementation patterns without copying proprietary code, making it an excellent educational resource for the open-source community.
 
 ## Repository Layout
 
@@ -174,12 +168,10 @@ The restructuring and documentation work on this repository was AI-assisted and 
 ## Community
 
 <p align="center">
-  <a href="https://instruct.kr/"><img src="assets/instructkr.png" alt="instructkr" width="400" /></a>
+  <strong>Built by CodingWorld-007</strong>
 </p>
 
-Join the [**instructkr Discord**](https://instruct.kr/) — the best Korean language model community. Come chat about LLMs, harness engineering, agent workflows, and everything in between.
-
-[![Discord](https://img.shields.io/badge/Join%20Discord-instruct.kr-5865F2?logo=discord&style=for-the-badge)](https://instruct.kr/)
+This learning guide is designed for the open-source community. Contribute, collaborate, and help others understand agent systems architecture. Star the repo to show your support!
 
 ## Star History
 
