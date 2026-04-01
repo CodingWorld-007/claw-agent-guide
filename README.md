@@ -11,16 +11,35 @@
 </p>
 
 <p align="center">
-  <img src="assets/Agent-system.png" alt="Claw" width="300" />
+  <img src="assets/Agent-system.png" alt="Agent Systems" width="300" />
 </p>
 
 <p align="center">
   <strong>Better Harness Tools, not merely storing the archive of leaked Claude Code</strong>
 </p>
 
+---
 
+## 🚀 Quick Start: Where to Begin?
 
-> [!IMPORTANT]
+**New to AI and Agent Systems?** Start here! 👇
+
+We have a **comprehensive 5-level learning guide** designed to take you from zero to expert:
+
+| Level | Topic | Duration | Best For |
+|-------|-------|----------|----------|
+| **[Level 0](my_observation/Level_zero_agent_understanding/)** | What is an Agent? | 30 min | Complete beginners |
+| **[Level 1](my_observation/Level_one_tools_and_commands/)** | Tools & Commands | 2 hours | Building your first tool |
+| **[Level 2](my_observation/Level_two_query_engine_and_routing/)** | Query Engine & Routing | 3 hours | Understanding routing logic |
+| **[Level 3](my_observation/Level_three_runtime_and_session/)** | Runtime & Sessions | 3 hours | Building stateful systems |
+| **[Level 4](my_observation/Level_four_advanced_features/)** | Permissions & Security | 2 hours | Production systems |
+| **[Level 5](my_observation/Level_five_full_integration/)** | Complete Integration | 8 hours | End-to-end implementation |
+
+**👉 [Start with Level 0](my_observation/Level_zero_agent_understanding/)**
+
+Or jump to the **[Master Navigation Guide](my_observation/README.md)** for the complete learning path!
+
+---
 > **Rust port is available** in the [`rust`](https://github.com/CodingWorld-007/claw-agent-guide/tree/main/rust) directory. The Rust implementation aims to deliver a faster, memory-safe harness runtime. This demonstrates how the same architectural patterns can be implemented across different languages.
 
 > If you find this work useful, please star this repository and share it with the community to support continued open-source harness engineering research!
