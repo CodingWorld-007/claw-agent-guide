@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/clawd-hero.jpeg" alt="Claw" width="300" />
+  <img src="assets/Agent-system.jpeg" alt="Claw" width="300" />
 </p>
 
 <p align="center">
