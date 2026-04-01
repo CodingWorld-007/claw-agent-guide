@@ -1,7 +1,7 @@
 # Rewriting Project Claw Code
 
 <p align="center">
-  <strong>⭐ The fastest repo in history to surpass 50K stars, reaching the milestone in just 2 hours after publication ⭐</strong>
+  <strong>⭐ Claw Agent Repository with Observations⭐</strong>
 </p>
 
 <p align="center">
