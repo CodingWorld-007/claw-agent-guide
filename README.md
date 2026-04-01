@@ -1,4 +1,4 @@
-# Rewriting Project Claw Code
+# Project Claw Code
 
 <p align="center">
   <strong>⭐ Comprehensive 5-Level Learning Guide for Agent Systems Architecture ⭐</strong>
