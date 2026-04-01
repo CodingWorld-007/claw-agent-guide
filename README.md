@@ -23,6 +23,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/sponsors/CodingWorld-007"><img src="https://img.shields.io/badge/Sponsor-❤️-pink?logo=github-sponsors&style=for-the-badge" alt="Sponsor" /></a>&nbsp;&nbsp;
   <a href="https://github.com/CodingWorld-007/claw-agent-guide"><img src="https://img.shields.io/badge/Star-⭐-yellow?logo=github&style=for-the-badge" alt="Star on GitHub" /></a>
 </p>
 
